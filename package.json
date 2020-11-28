@@ -1,0 +1,23 @@
+{
+  "name": "restapisimaset",
+  "version": "1.0.0",
+  "description": "REST API FOR SIMASET APPS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zeddinfo/RestApiSimaset.git"
+  },
+  "keywords": [
+    "rest",
+    "api"
+  ],
+  "author": "RoadToStartup",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zeddinfo/RestApiSimaset/issues"
+  },
+  "homepage": "https://github.com/zeddinfo/RestApiSimaset#readme"
+}
